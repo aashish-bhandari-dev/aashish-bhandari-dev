@@ -9,28 +9,118 @@
 
 - ⚡ Fun fact : **1+1=2**
 
+<br/>
+
 <h3 align="left">Languages and Tools:</h3>
+
+<!-- BACKEND -->
+<h4 align="left">Backend</h4>
 <p align="left">
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/83c2d7e0236e1b411ca429ea428f3cbf3b9f992c3ac1ff8edef2bd1a9a0d630d/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c61726176656c2d706c61696e2d776f72646d61726b2e737667" alt="laravel" width="45" height="45"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/> </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="45" height="45"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-  <a href="https://laravel-livewire.com/docs/2.x/quickstart" target="_blank" rel="noreferrer"> <img src="https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-livewire.png" alt="Livewire" width="90" height="45"/> </a>
-  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="45" height="45"/> </a>
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="45" height="45"/> </a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="45" height="45"/> </a>
+<table>
+ <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="45"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="45"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45"/></td>
+</tr>
+<tr>
+    <td align="center">Laravel</td>
+    <td align="center">NestJS</td>
+    <td align="center">Node.js</td>
+    <td align="center">FastAPI</td>
+    <td align="center">Go</td>
+</tr>
+</table>
+</p>
+<!-- FRONTEND -->
+<h4 align="left">Frontend</h4>
+<p align="left">
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="45"/></td>
+  </tr>
+  <tr>
+    <td align="center">Next.js</td>
+    <td align="center">React</td>
+    <td align="center">Svelte</td>
+  </tr>
+</table>
+</p>
+<!-- DATABASES -->
+<h4 align="left">Databases & ORMs</h4>
+<p align="left">
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" width="45"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="45"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="45"/></td>
+  </tr>
+  <tr>
+    <td align="center">MySQL</td>
+    <td align="center">PostgreSQL</td>
+    <td align="center">MongoDB</td>
+    <td align="center">Sequelize</td>
+    <td align="center">Prisma</td>
+    <td align="center">Mongoose</td>
+  </tr>
+</table>
+</p>
+<!-- CLOUD -->
+<h4 align="left">Cloud & Infrastructure</h4>
+<p align="left">
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45"/></td>
+  </tr>
+  <tr>
+    <td align="center">AWS</td>
+    <td align="center">Terraform</td>
+    <td align="center">Docker</td>
+    <td align="center">Kubernetes</td>
+  </tr>
+</table>
+</p>
+<!-- DEVOPS -->
+<h4 align="left">CI/CD, DevOps & Observability</h4>
+<p align="left">
+<table>
+  <tr>
+    <td align="center"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="45"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="45"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="45"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="45"/></td>
+  </tr>
+  <tr>
+    <td align="center">GitHub Actions</td>
+    <td align="center">VPS Deployment</td>
+    <td align="center">Prometheus</td>
+    <td align="center">Grafana</td>
+  </tr>
+</table>
+</p>
+<!-- TESTING -->
+<h4 align="left">Testing & API Tools</h4>
+<p align="left">
+<table>
+  <tr>
+    <td align="center"><img src="https://playwright.dev/img/playwright-logo.svg" width="45"/></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="45"/></td>
+  </tr>
+  <tr>
+    <td align="center">Playwright (E2E Testing)</td>
+    <td align="center">Postman</td>
+    <td align="center">Swagger</td>
+  </tr>
+</table>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandezh&show_icons=true&locale=en" alt="sandezh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandezh&" alt="sandezh" /></p>
