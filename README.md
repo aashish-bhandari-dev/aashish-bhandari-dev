@@ -58,6 +58,8 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/></td>
+     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45"/></td>
+    <td align="center"><img src="https://qdrant.tech/favicon.ico" width="45"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" width="45"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="45"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="45"/></td>
@@ -66,6 +68,8 @@
     <td align="center">MySQL</td>
     <td align="center">PostgreSQL</td>
     <td align="center">MongoDB</td>
+    <td align="center">Redis</td>
+    <td align="center">Qdrant</td>
     <td align="center">Sequelize</td>
     <td align="center">Prisma</td>
     <td align="center">Mongoose</td>
