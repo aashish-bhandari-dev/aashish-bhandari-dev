@@ -120,3 +120,23 @@
 </table>
 </p>
 
+<hr/>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sandezh" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/sandezh.bhandari" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/l.sandesh.l" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/sandesh_sir" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:aashishbhandari3557@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40"/>
+  </a>
+</p>
