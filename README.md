@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sandesh (Aashish Bhandari)</h1>
 <p align="justify">Full Stack Developer with 4+ years of experience building scalable, secure, and maintainable web applications across backend, frontend, and cloud infrastructure. Proficient in Laravel, Node.js (NestJS), Python (FastAPI), Next.js, and AWS, with hands-on experience in Docker, Terraform, and CI/CD pipelines. Strong focus on clean architecture, automation, and delivering reliable, high performance systems.</p>
 
-<br/>
+<hr/>
+
 <h3 align="left">Languages and Tools :</h3>
 
 <!-- BACKEND -->
