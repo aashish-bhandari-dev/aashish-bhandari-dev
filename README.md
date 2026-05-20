@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandesh (Aashish Bhandari)</h1>
 <p align="justify">Full Stack Developer with 4+ years of experience building scalable, secure, and maintainable web applications across backend, frontend, and cloud infrastructure. Proficient in Laravel, Node.js (NestJS), Python (FastAPI), Next.js, and AWS, with hands-on experience in Docker, Terraform, and CI/CD pipelines. Strong focus on clean architecture, automation, and delivering reliable, high performance systems.</p>
 
-<img alt="coding" width="100%" height="430" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandezh&label=Profile%20views&color=0e75b6&style=flat" alt="sandezh" /> </p>
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me : **sandeshbhandari1000@gmail.com**
-
-- ⚡ Fun fact : **1+1=2**
-
 <br/>
 <h3 align="left">Languages and Tools :</h3>
 
