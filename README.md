@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sandesh (Aashish Bhandari)</h1>
 <p align="justify">Full Stack Developer with 4+ years of experience building scalable, secure, and maintainable web applications across backend, frontend, and cloud infrastructure. Proficient in Laravel, Node.js (NestJS), Python (FastAPI), Next.js, and AWS, with hands-on experience in Docker, Terraform, and CI/CD pipelines. Strong focus on clean architecture, automation, and delivering reliable, high performance systems.</p>
 
+<p align="center">
+  <a href="https://bhandari-aashish.com.np" target="_blank">
+    <strong>My Portfolio Website</strong>
+  </a>
+</p>
+
 <hr/>
 
 <h3 align="left">Languages and Tools :</h3>
@@ -33,11 +39,13 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="45"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45"/></td>
   </tr>
   <tr>
     <td align="center">Next.js</td>
     <td align="center">React</td>
     <td align="center">Svelte</td>
+    <td align="center">Flutter</td>
   </tr>
 </table>
 </p>
